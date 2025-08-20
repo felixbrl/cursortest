@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+pandas-datareader
+yfinance
+openpyxl
+configparser
+streamlit
